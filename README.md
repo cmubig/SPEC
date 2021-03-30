@@ -36,7 +36,7 @@ cd SPEC
 ```  
 ## Library Requirement and Suggested Version
 
-* numpy==1.18.2
+* numpy==1.18.2+
 * torch==1.4.0
 
 ## Hardware, Software System Requirements  
