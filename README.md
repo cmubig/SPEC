@@ -1,10 +1,10 @@
 # Social Pattern Extraction Convolution (SPEC) 
 
-**Social Pattern Extraction Convolution (SPEC) is an algorithm designed and implemented to help robots to predict humans’ future trajectories, so that robots can navigate in a safe and self-explanatory manner, while humans feel comfortable about robots’ motion.**  
+**Social Pattern Extraction Convolution (SPEC)<sub>[1]</sub> is an algorithm designed and implemented to help robots to predict humans’ future trajectories, so that robots can navigate in a safe and self-explanatory manner, while humans feel comfortable about robots’ motion.**  
 
 System Functionality:  
 
-- Can be trained on the ETH pedestrian dataset [2] and UCY pedestrian dataset [3], which are provided together with the software in the “./data” folder    
+- Can be trained on the ETH pedestrian dataset<sub>[2]</sub> and UCY pedestrian dataset<sub>[3]</sub>, which are provided together with the software in the “./data” folder    
 - Can be trained on other datasets, as long as given in the same format as the provided ETH/UCY datasets  
 - Can predict future trajectories of human pedestrians, when given observed history trajectories  
 - Can be used to simulate human behaviors, when given appropriate initialization, e.g. a few steps of locations, which is useful for social navigation study  
@@ -71,3 +71,4 @@ https://ieeexplore.ieee.org/abstract/document/5459260
 
 [3] A. Lerner, Y. Chrysanthou, and D. Lischinski, “Crowds by example,” in Computer graphics forum, vol. 26, no. 3. Wiley Online Library, 2007, pp. 655–664.  
 https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2007.01089.x  
+
