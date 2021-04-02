@@ -82,6 +82,11 @@ Functions for inference can be found in model.py.
 
 ---
 
+## Acknowledgement
+This work was supported in part by the U.S. Air Force Office of Scientific Research under Award no. FA2386-17-1-4660 and in part by U.S. Army Ground Vehicle Systems Center.  
+
+---
+
 ## References
 
 [1] D. Zhao and J. Oh, "Noticing Motion Patterns: A Temporal CNN With a Novel Convolution Operator for Human Trajectory Prediction," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 628-634, April 2021, doi: 10.1109/LRA.2020.3047771.  
