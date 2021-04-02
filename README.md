@@ -1,13 +1,13 @@
 # Social Pattern Extraction Convolution (SPEC) 
 
+This software implements the Social Pattern Extraction Convolution (SPEC) algorithm published in the following paper:<br>
 
-For paper:
+<p>
+<a href="https://scholar.google.com/citations?user=opaOHYwAAAAJ">Dapeng Zhao</a> and
+<a href="http://www.cs.cmu.edu/~jeanoh">Jean Oh</a>,
 **<a href="https://arxiv.org/abs/1803.10892">Noticing Motion Patterns: A Temporal CNN With a Novel Convolution Operator for Human Trajectory Prediction</a>**
-<br>
-<a href="https://scholar.google.com/citations?user=opaOHYwAAAAJ">Dapeng Zhao</a>,
-<a href="http://www.cs.cmu.edu/~jeanoh">Jean Oh</a>
-<br>
-Published on [IEEE Robotics and Automation Letters (RA-L)](https://ieeexplore.ieee.org/abstract/document/9309403)
+[IEEE Robotics and Automation Letters (RA-L)](https://ieeexplore.ieee.org/abstract/document/9309403), December 2020.
+</p>
 
 <p>
   <pre>
