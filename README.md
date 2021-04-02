@@ -6,7 +6,7 @@ This software implements the Social Pattern Extraction Convolution (SPEC) algori
 <a href="https://scholar.google.com/citations?user=opaOHYwAAAAJ">Dapeng Zhao</a> and
 <a href="http://www.cs.cmu.edu/~jeanoh">Jean Oh</a>,
 <a href="https://arxiv.org/abs/1803.10892"><b>Noticing Motion Patterns: A Temporal CNN With a Novel Convolution Operator for Human Trajectory Prediction</b></a>
-[IEEE Robotics and Automation Letters (RA-L)](https://ieeexplore.ieee.org/abstract/document/9309403), December 2020.
+<a href="https://ieeexplore.ieee.org/abstract/document/9309403">IEEE Robotics and Automation Letters (RA-L)</a>, December 2020.
 </p>
 
 <p>
