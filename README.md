@@ -9,6 +9,17 @@ For paper:
 <br>
 Published on [IEEE Robotics and Automation Letters (RA-L)](https://ieeexplore.ieee.org/abstract/document/9309403)
 
+<p>
+  <pre>
+@article{zhao2020noticing,
+  title={Noticing Motion Patterns: Temporal CNN with a Novel Convolution Operator for Human Trajectory Prediction},
+  author={Zhao, Dapeng and Oh, Jean},
+  journal={IEEE Robotics and Automation Letters},
+  year={2020},
+  publisher={IEEE}
+}
+</pre>
+</p>
 
 **Social Pattern Extraction Convolution (SPEC)<sub>[1]</sub> is an algorithm designed and implemented to help robots to predict humans’ future trajectories, so that robots can navigate in a safe and self-explanatory manner, while humans feel comfortable about robots’ motion.**  
 
